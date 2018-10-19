@@ -1,2 +1,6 @@
 # Code-Cpp
-First cpp program
+#include<iostream.h>
+int main()
+{
+cout>>"Hello World";
+}
